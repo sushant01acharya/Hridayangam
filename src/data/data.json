@@ -67,12 +67,12 @@
   ],
   "Services": [
     {
-      "icon": "img/logo/logo.png",
+      "icon": "img/products/sajha.png",
       "name": "Our Service One",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "img/logo/logo.png",
+      "icon": "img/products/lumbini_paths.png",
       "name": "Our Service One",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
